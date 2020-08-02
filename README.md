@@ -10,17 +10,15 @@ Time spent: **9** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
-* [ ] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [x] User can **view a list of todo items**
+* [x] User can **successfully add and remove items** from the todo list
+* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
+        
 
 ## Video Walkthrough
 
@@ -36,7 +34,7 @@ The apache API did not work the first time and I had to code a couple of times t
 
 ## License
 
-    Copyright [2019] [Erskine Nyoike]
+    Copyright [2020] [Erskine Nyoike]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
